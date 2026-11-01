@@ -13,4 +13,4 @@ markupsafe==3.0.3
 PyYAML==6.0.3
 # sqlalchemy 2.1.x needs newer Cython than the build env provides, stay on 2.0.x
 sqlalchemy==2.0.54
-tornado==6.5.10
+tornado==6.6

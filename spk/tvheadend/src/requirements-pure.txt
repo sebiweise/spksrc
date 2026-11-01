@@ -1,8 +1,8 @@
 charset-normalizer==3.4.7
 gracenote2epg==2.0.0
-idna==3.18
+idna==3.20
 requests==2.34.2
-urllib3==2.7.0
+urllib3==2.8.0
 
 # Additional wheels for gracenote2epg[full] >= 2.0.0
 langdetect==1.0.9
